@@ -9,7 +9,7 @@ Country Code picking supporting file for IOS Swift
 
 
 ## Manual Installation
-copy CountryPickerBottomSheet Folder To Your Project
+
 1. Copy the `CountryPickerBottomSheet` folder to your project.
 2. add DialCountriesControllerDelegate to Your VC
 3. let controller = DialCountriesController(locale: Locale(identifier: "en_US"))
