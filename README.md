@@ -1,5 +1,7 @@
 # SwiftCountryCodePicker
 Country Code picking supporting file for IOS Swift 
+Read Blog at medium
+https://medium.com/@thahashajumonpc3193/add-a-country-name-code-picker-to-your-ios-swift-project-ed0a66768370
 
 ## Screenshots
 ![Simulator Screenshot - iPhone 16 Pro - 2025-01-08 at 11 38 04](https://github.com/user-attachments/assets/a7f0e278-8916-4ea0-8276-2375be6a23dc)
